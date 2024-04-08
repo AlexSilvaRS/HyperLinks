@@ -1,0 +1,10 @@
+a {
+    color: blue;
+}
+
+a:hover {
+    color: rgb(0, 255, 89);
+}
+body {
+    text-align:justify
+}
